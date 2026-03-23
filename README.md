@@ -2,11 +2,11 @@
 <img height="200px" width="600px" src="https://i.pinimg.com/564x/bc/5f/20/bc5f209716c87d2378128dc8ab0e0d61.jpg">
 </div>
 <h1 align="center">Hi 👋, I'm obito</h1>
-<h3 align="center">A passionate full stack dev from India</h3>
+<h3 align="center">A passionate full stack dev</h3>
 
 - 🌱 I’m currently learning **LLM , DSA**
 
-- 💬 Ask me about **Cyber Security , MERN**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **mainakganguly22@gmail.com**
 
